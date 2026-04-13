@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A clean and responsive **Personal Portfolio Website** built using **HTML5 and CSS3**.
 This project showcases my front-end development skills, focusing on layout design, styling, and user-friendly interface.
@@ -15,14 +15,14 @@ This project showcases my front-end development skills, focusing on layout desig
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **HTML5** – Structure
 * **CSS3** – Styling and layout
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 portfolio-website/
@@ -31,28 +31,6 @@ portfolio-website/
 │── style.css         # Main Stylesheet
 
 ```
-
----
-
-##  Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd your-repo-name
-```
-
-### 3. Open in browser
-
-Simply open `index.html` in your browser
-
----
 
 ##  Contact Form
 
@@ -87,7 +65,7 @@ an aspiring web developer passionate about building clean and user-friendly web 
 ## Connect With Me
 
 * 📧 Email: devadharshiniashok2005@gmail.com
-* 💼 LinkedIn: *Add your profile link*
+* 💼 LinkedIn: www.linkedin.com/in/deva-dharshini-b2b454363
 
 
 ---
