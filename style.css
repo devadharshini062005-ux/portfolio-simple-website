@@ -1,0 +1,102 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+   font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.container{
+    padding: 20px;
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.section-one,.section-five{
+    background-color: rgb(236, 197, 210);
+    color: rgb(149, 55, 86);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.section-one__link{
+    background-color: rgb(149, 55, 86);
+    color: rgb(236, 197, 210);
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section-one__link:hover{
+    background-color:rgb(236, 197, 210) ;
+    color: rgb(149, 55, 86);
+    padding: 5px;
+    text-decoration: none;
+    border: solid 2px rgb(149, 55, 86);
+    border-radius: 5px;
+    transition: 1s;
+}
+.section-two, .section-three, .section-four, .section-five{
+    padding: 10px;
+}
+.section-two__para ,.section-three__lis,.section-four__list,.section-five__para,.section-five__par{
+    margin-top: 10px;
+}
+.section-five__para a{
+    color: rgb(25, 172, 231);
+}
+.section-three__lis,.section-four__list{
+    list-style: none;
+}
+
+.section-three{
+    background-color: rgb(149, 55, 86);
+    color:rgb(236, 197, 210) ;
+    padding: 20px;
+    height: 200px;
+    border: solid 2px rgb(236,197,210);
+    display: inline-block;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.section-four{
+    background-color: rgb(236, 197, 210);
+    color:rgb(149, 55, 86) ;
+    padding: 20px;
+    height: 200px;
+    border: solid 2px rgb(149, 55, 86);
+    display:inline-block ;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.section-two__input{
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    border: none;
+    border-bottom:solid black 1px;
+    padding: 10px;
+    margin-top: 10px
+}
+.section-two__msg{
+    border: none;
+    border:solid black 1px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.section-two__submit{
+    font-family: "Courier Prime", monospace;
+    padding: 10px;
+    background-color: rgb(236, 197, 210);
+    color:rgb(149, 55, 86) ;
+    border: 2px rgb(149, 55, 86)solid;
+    border-radius: 5px;
+    transition: .5s;
+    font-weight: bold;
+}
